@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper and this repository."
+title: "Fluid Intelligence CFD Scaling"
+type: software
+authors:
+  - family-names: Ashton
+    given-names: Neil
+    orcid: "https://orcid.org/0000-0002-9943-2334"
+  - family-names: Brandstetter
+    given-names: Johannes
+  - family-names: Mishra
+    given-names: Siddhartha
+repository-code: "https://github.com/neilashton/fluid-intelligence-cfd-scaling"
+url: "https://arxiv.org/abs/2511.20455"
+license: Apache-2.0
+date-released: 2026-06-15
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Ashton
+      given-names: Neil
+      orcid: "https://orcid.org/0000-0002-9943-2334"
+    - family-names: Brandstetter
+      given-names: Johannes
+    - family-names: Mishra
+      given-names: Siddhartha
+  title: "Fluid Intelligence: A Forward Look on AI Foundation Models in Computational Fluid Dynamics"
+  year: 2025
+  journal: arXiv
+  identifiers:
+    - type: url
+      value: "https://arxiv.org/abs/2511.20455"
+      description: "arXiv:2511.20455"
