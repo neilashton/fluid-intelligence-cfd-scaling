@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this archived software release."
+title: "Fluid Intelligence CFD Scaling"
+type: software
+version: 1.0.0
+date-released: 2026-09-20
+authors:
+  - family-names: Ashton
+    given-names: Neil
+    orcid: "https://orcid.org/0000-0002-9943-2334"
+  - family-names: Brandstetter
+    given-names: Johannes
+  - family-names: Mishra
+    given-names: Siddhartha
+repository-code: "https://github.com/neilashton/fluid-intelligence-cfd-scaling"
+url: "https://github.com/neilashton/fluid-intelligence-cfd-scaling"
+license: Apache-2.0
+abstract: "Python code for the six data-generation and model-training cost sensitivity plots in A Forward Look on AI Foundation Models in Computational Fluid Dynamics. The release preserves the numerical code used for the manuscript and records the verified reproduction environment."
+keywords:
+  - computational fluid dynamics
+  - scaling laws
+  - reproducibility
