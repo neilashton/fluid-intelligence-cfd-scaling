@@ -3,6 +3,7 @@ message: "If you use this software, please cite this archived software release."
 title: "Fluid Intelligence CFD Scaling"
 type: software
 version: 1.0.0
+doi: "10.5281/zenodo.22856256"
 date-released: 2026-09-20
 authors:
   - family-names: Ashton
